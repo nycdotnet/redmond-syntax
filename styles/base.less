@@ -88,9 +88,9 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .keyword {
-  color: @blue;
+  color: @black;
 
-  &.operator {
+  &.operator.cs {
     color: @blue;
   }
 
@@ -103,7 +103,8 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
-.namespace {
+.namespace.cs {
+  color: @blue;
 
   & > .keyword.operator {
     color: @black;
@@ -182,6 +183,11 @@ atom-text-editor .search-results .marker.current-result .region,
   &.other.link {
     color: @red;
   }
+
+  & > .source.js.embedded {
+    color: @black;
+  }
+
 }
 
 .punctuation {
