@@ -6,4 +6,10 @@ The theme is fairly decent for working with TypeScript and CSS.  A few considera
 
 Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https://twitter.com/nycdotnet)).
 
-To [publish](https://atom.io/docs/v0.186.0/publishing-a-package), run `apm publish minor`.  
+<img src="images/SyntaxRedmondThemeCS.png" />
+
+<img src="images/SyntaxRedmondThemeTS.png" />
+
+#### Publishing Checklist
+  * Update CHANGELOG.md
+  * To [publish](https://atom.io/docs/v0.186.0/publishing-a-package), run `apm publish minor`.
