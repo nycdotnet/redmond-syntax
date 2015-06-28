@@ -1,7 +1,7 @@
 {
   "name": "redmond-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A syntax theme for Atom for those comfortable with the Visual Studio Blue theme.",
   "keywords": [
     "syntax",
