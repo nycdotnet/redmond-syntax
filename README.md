@@ -6,9 +6,11 @@ The theme is fairly decent for working with TypeScript and CSS.  A few considera
 
 Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https://twitter.com/nycdotnet)).
 
-<img src="images/SyntaxRedmondThemeCS.png" />
+## Example for C Sharp
+![redmond-syntax C#](https://cloud.githubusercontent.com/assets/3755379/8398216/0fdbefee-1db4-11e5-9f05-8da4e7fa60b5.PNG)
 
-<img src="images/SyntaxRedmondThemeTS.png" />
+## Example for TypeScript
+![redmond-syntax TypeScript](https://cloud.githubusercontent.com/assets/3755379/8398217/11619878-1db4-11e5-84cf-9a75c392ef2b.PNG)
 
 #### Publishing Checklist
   * Update CHANGELOG.md
