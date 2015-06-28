@@ -1,7 +1,7 @@
 {
   "name": "redmond-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A syntax theme for Atom for those comfortable with the Visual Studio Blue theme.",
   "keywords": [
     "syntax",
@@ -11,10 +11,10 @@
     "studio"
   ],
   "author": {
-    "name":"Steve Ognibene",
-    "email":"steve.ognibene@outlook.com",
-    "url":"http://www.legendaryapps.com"
-    },
+    "name": "Steve Ognibene",
+    "email": "steve.ognibene@outlook.com",
+    "url": "http://www.legendaryapps.com"
+  },
   "repository": "https://github.com/nycdotnet/redmond-syntax",
   "license": "MIT",
   "engines": {
