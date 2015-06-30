@@ -322,7 +322,6 @@ atom-text-editor .search-results .marker.current-result .region,
 
 .markup {
   &.bold {
-    color: @orange;
     font-weight: bold;
   }
 
@@ -335,7 +334,6 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.italic {
-    color: @purple;
     font-style: italic;
   }
 
@@ -350,21 +348,30 @@ atom-text-editor .search-results .marker.current-result .region,
   &.list {
     color: @red;
   }
-
-  &.quote {
-    color: @orange;
-  }
-
-  &.raw.inline {
-    color: @green;
-  }
 }
 
-.source.gfm .markup {
-  -webkit-font-smoothing: auto;
-  &.heading {
-    color: @green;
+// gfm is "GitHub Flavored Markdown"
+.source.gfm {
+  .markup {
+    -webkit-font-smoothing: auto;
+    &.heading {
+      color: @teal;
+      font-weight: bolder;
+    }
   }
+  .list {
+    color: @teal;
+    font-weight: bolder;
+  }
+  .comment {
+    color: @gray;
+    font-weight: normal;
+    .support {
+      color: @teal;
+      font-weight: bolder;
+    }
+  }
+
 }
 
 atom-text-editor[mini] .scroll-view,

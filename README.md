@@ -2,7 +2,15 @@
 
 An Atom syntax theme for fans of the Visual Studio Blue theme.
 
-The theme is fairly decent for working with TypeScript and CSS.  A few considerations for C#.  There is plenty left to do, and a few shortcomings in how Atom parses the languages prevent more accurate highlighting.
+There is plenty left to do, and a few shortcomings in how Atom parses the languages prevent more accurate highlighting.
+
+**Decent Support:**
+  * TypeScript
+  * CSS
+  * Markdown
+
+**Basic Support:**
+  * C#
 
 Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https://twitter.com/nycdotnet)).
 
