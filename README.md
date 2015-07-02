@@ -2,7 +2,7 @@
 
 An Atom syntax theme for fans of the Visual Studio Blue theme.
 
-This is a syntax theme; for the complimentary UI theme, please also download [redmond-syntax](https://atom.io/themes/redmond-ui).
+This is a syntax theme; for the complimentary UI theme, please also download [redmond-ui](https://atom.io/themes/redmond-ui).
 
 There is plenty left to do, and a few shortcomings in how Atom parses the languages prevent more accurate highlighting.
 
