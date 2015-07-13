@@ -16,11 +16,11 @@ There is plenty left to do, and a few shortcomings in how Atom parses the langua
 
 Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https://twitter.com/nycdotnet)).
 
+## Example for TypeScript
+![redmond-ui-2015-07-13](https://cloud.githubusercontent.com/assets/3755379/8652466/d0b10e18-294c-11e5-81cf-503c88b5fa42.png)
+
 ## Example for C Sharp
 ![redmond-syntax C#](https://cloud.githubusercontent.com/assets/3755379/8398216/0fdbefee-1db4-11e5-9f05-8da4e7fa60b5.PNG)
-
-## Example for TypeScript
-![redmond-syntax TypeScript](https://cloud.githubusercontent.com/assets/3755379/8398217/11619878-1db4-11e5-84cf-9a75c392ef2b.PNG)
 
 #### Publishing Checklist
   * Update CHANGELOG.md
