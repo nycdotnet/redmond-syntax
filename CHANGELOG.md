@@ -1,3 +1,7 @@
+
+## 0.2.12 - Fixes (2015-07-13)
+  * Lightened color of indent-guide.
+
 ## 0.2.3 - Fixes (2015-06-30)
   * Markdown headers, undordered list bullets, and quote bullets are now rendered in bold with a teal color.  Quoted text in Markdown is now rendered in a dark gray.  This is an improvement on the default VS rendering which currently has no colorization at all.
 
