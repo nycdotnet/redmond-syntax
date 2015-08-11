@@ -1,3 +1,5 @@
+## Next
+  * "Other" keywords in TypeScript are now blue (`export`, for example).
 
 ## 0.2.12 - Fixes (2015-07-13)
   * Lightened color of indent-guide.
