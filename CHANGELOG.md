@@ -1,4 +1,4 @@
-## Next
+## 0.2.15 - Fix (2015-08-11)
   * "Other" keywords in TypeScript are now blue (`export`, for example).
 
 ## 0.2.12 - Fixes (2015-07-13)
