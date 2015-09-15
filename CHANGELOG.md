@@ -1,3 +1,6 @@
+## 0.2.16 - Fix (2015-09-15)
+  * Fixed horrible white-on-red syntax highlighting for "invalid.illegal" strings - aka unterminated string constants.  Now will just show the remainder of the file as one big string like most editors do.
+
 ## 0.2.15 - Fix (2015-08-11)
   * "Other" keywords in TypeScript are now blue (`export`, for example).
 
