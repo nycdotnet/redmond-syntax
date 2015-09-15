@@ -23,5 +23,6 @@ Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https:/
 ![redmond-syntax C#](https://cloud.githubusercontent.com/assets/3755379/8398216/0fdbefee-1db4-11e5-9f05-8da4e7fa60b5.PNG)
 
 #### Publishing Checklist
-  * Update CHANGELOG.md
+  * Check everything in to GitHub.
   * To [publish](https://atom.io/docs/v0.186.0/publishing-a-package), run `apm publish patch`.
+  * Update CHANGELOG.md (do this after publish because it's hard to predict the version).
