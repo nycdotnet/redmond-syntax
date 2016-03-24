@@ -24,5 +24,6 @@ Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https:/
 
 #### Publishing Checklist
   * Check everything in to GitHub.
+  * Update CHANGELOG.md and say vNext with a date.
   * To [publish](https://atom.io/docs/v0.186.0/publishing-a-package), run `apm publish patch`.
-  * Update CHANGELOG.md (do this after publish because it's hard to predict the version).
+  * Update CHANGELOG.md with the actual patch version.

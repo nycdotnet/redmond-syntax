@@ -1,9 +1,10 @@
-## vNext
+## vNext (2016-03-23)
   * Markdown changes!!!
     * URLs are now blue.
     * The linked text is now bolded including the square brackets.
     * GitHub "@" Mentions are now bold and rusty-red.
     * GitHub issue numbers are now bold and rusty-red.
+    * In the Markdown preview pane, text defaults to black and links are underlined and in blue.
 
 ## 0.2.16 - Fix (2015-09-15)
   * Fixed horrible white-on-red syntax highlighting for "invalid.illegal" strings - aka unterminated string constants.  Now will just show the remainder of the file as one big string like most editors do.
