@@ -368,7 +368,13 @@ span .gfm {
   }
 }
 
-
+.markdown-preview:not([data-use-github-style]) {
+  color: @black;
+  a {
+    text-decoration: underline;
+    color: @blue;
+  }
+}
 
 // gfm is "GitHub Flavored Markdown"
 .source.gfm {
