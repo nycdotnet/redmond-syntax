@@ -196,8 +196,19 @@ atom-text-editor .search-results .marker.current-result .region,
 
 }
 
+span .gfm {
+  &.variable.mention, &.username.string, &.issue.tag, &.issue.number {
+    font-weight: bold;
+    color: @rusty-red;
+  }
+}
+
 .punctuation {
   &.definition {
+
+    span &.gfm {
+      font-weight: bold;
+    }
 
     &.variable,
     &.parameters,
@@ -249,10 +260,18 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
-.entity {
+.link.gfm {
+  color: @blue;
+  text-decoration: underline;
+}
 
+.entity {
   &.name.class, &.name.type.class {
     color: @teal;
+  }
+
+  span &.gfm {
+    font-weight: bold;
   }
 
   &.name.section {
@@ -348,6 +367,8 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @red;
   }
 }
+
+
 
 // gfm is "GitHub Flavored Markdown"
 .source.gfm {
