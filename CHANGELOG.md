@@ -1,4 +1,10 @@
-## vNext (2016-03-23)
+## vNext ()
+
+## 1.0.0 - Fixes and 1.0 (2016-08-07)
+  * Fixes annoying bug where the current line would hop a few pixels.  Thank you for the PR, [@SrTobi](https://github.com/SrTobi) !!!
+  * Calling this v1.0 - I think it's pretty much done.  :-)
+
+## 0.2.18 - Fix (2016-03-23)
   * Markdown changes!!!
     * URLs are now blue.
     * The linked text is now bolded including the square brackets.

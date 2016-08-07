@@ -22,6 +22,12 @@ Written by [Steve Ognibene](http://www.legendaryapps.com/) ([@nycdotnet](https:/
 ## Example for C Sharp
 ![redmond-syntax C#](https://cloud.githubusercontent.com/assets/3755379/8398216/0fdbefee-1db4-11e5-9f05-8da4e7fa60b5.PNG)
 
+#### Developing
+
+Uninstall `redmond-syntax` if you have it already.  Make sure the folder is deleted under `~/.atom/dev/packages/`.
+Clone the `redmond-syntax` repo, open a command-prompt there, and run `apm link --dev` to symlink the repo to `~/.atom/dev/packages`.
+Run a separate instance of Atom in dev mode: `atom --dev` to enable refreshing it when you change the `.less` files in this package.
+
 #### Publishing Checklist
   * Check everything in to GitHub.
   * Update CHANGELOG.md and say vNext with a date.
