@@ -1,4 +1,7 @@
-## vNext ()
+## v Next ()
+
+## 1.1.0 - Removed deprecated selectors (2018-11-07)
+  * Thanks to [@UserFA15](https://github.com/UserFA15), this theme is now compliant with modern versions of Atom (removed deprecated selectors).
 
 ## 1.0.0 - Fixes and 1.0 (2016-08-07)
   * Fixes annoying bug where the current line would hop a few pixels.  Thank you for the PR, [@SrTobi](https://github.com/SrTobi) !!!
